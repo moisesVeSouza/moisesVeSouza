@@ -10,31 +10,21 @@ I also have professional experience with Angular, TypeScript, JavaScript, and Po
 
 </div>
 
-  
 ## 🖥️ Technologies & Tools:
   
 These are the technologies I have the most experience with:
   
-  #### 
   ### Backend:    
-  
   <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,typeorm" height="40" />
-  
-  #### 
+   
   ### Frontend: 
   <img src="https://go-skill-icons.vercel.app/api/icons?i=react,angular,tailwind,bootstrap" height="40" />
   
-  #### 
   ### Database: 
   <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql,postgres" height="40" />
   
-  #### 
   ### Tools: 
   <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,github,git,vite" height="40" />
-
-####
-
-####
 
 ## 📊 My GitHub Stats
   <br>
@@ -44,7 +34,7 @@ These are the technologies I have the most experience with:
     </div>
 
 
-  ## 📫 Let's Connect
+## 📫 Let's Connect
 <div> 
   <a href="https://www.linkedin.com/in/souzamoises" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -53,9 +43,5 @@ These are the technologies I have the most experience with:
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
 </div>
-
-####
-
-####
 
 ⭐ Thanks for visiting my profile!
