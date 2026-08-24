@@ -8,8 +8,6 @@ I have solid experience with React and Node.js and I'm currently focusing on dee
 
 I also have professional experience with Angular, TypeScript, JavaScript, and PostgreSQL, and I'm constantly improving my skills in modern web development.
 
-</div>
-
 ## 🖥️ Technologies & Tools:
   
 These are the technologies I have the most experience with:
